@@ -200,7 +200,6 @@ class MainActivity : AppCompatActivity() {
         }
 
 
-
         // 소수점 버튼
         binding.btnDot.setOnClickListener {
             val text = binding.tvCalc.text
